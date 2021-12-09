@@ -1,0 +1,6 @@
+Kurs.java
+ Kurs
+aufgabe1.java
+ aufgabe1
+Studi.java
+ Studi
